@@ -56,8 +56,8 @@ feedback, which is why I finished the code quite quickly and decided to focus pr
 
 ### Time
 
-~40 minutes on the code ( stock_quotes.py and usage_example.ipynb)
-~ 45 hour on the readme
+~45 minutes on the code ( stock_quotes.py and usage_example.ipynb)
+~ 1 hour on the readme
 ~ 15 minutes on github repo setup
 
 ### General Feedback
